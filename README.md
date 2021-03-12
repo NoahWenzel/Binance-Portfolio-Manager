@@ -1,5 +1,5 @@
 # Binance-Portfolio-Manager
-Uses Binance API to manage crypto portfolio.
+This is part of a much larger project that uses Binance API to manage crypto portfolio. New functionality will be coppied over from the larger project as time goes on.
 
 ## Purpose:
 The functional purpose of this project is to manage and trade cryptocurrency using the Binance API. This project is a work in progress and will continue to develope new capabilities.
